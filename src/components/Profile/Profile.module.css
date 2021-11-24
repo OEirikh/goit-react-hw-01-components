@@ -51,10 +51,12 @@
 .label {
   display: block;
   margin: 5px;
+  font-size: 13px;
 }
 
 .quantity {
   display: block;
   margin: 5px;
+  font-size: 18px;
   font-weight: 700;
 }
